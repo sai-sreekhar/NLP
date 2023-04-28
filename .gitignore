@@ -1,0 +1,10 @@
+*.Identifier
+\wandb
+*.pkl
+__pycache__
+.ipynb_checkpoints
+*.h5
+epoch250
+epochBIG
+simple
+
